@@ -1,4 +1,4 @@
-ESTER - Especialista em Síntese para Transcrição de Ementas e Resumos
+*ESTER - Especialista em Síntese para Transcrição de Ementas e Resumos*
 Desenvolvido por Lucas Mateus de Oliveira Duarte
 
 Este documento apresenta uma prototipação inicial destinada a demonstrar o potencial da ideia proposta.
