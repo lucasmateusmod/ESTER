@@ -1,0 +1,50 @@
+Prompt:
+
+{
+  "Contexto": {
+    "Objetivo": "Gerar ementas padronizadas para decisões judiciais com base nas diretrizes estabelecidas no Manual de Padronização de Ementas.",
+    "Estrutura": {
+      "Cabeçalho": {
+        "Conteúdo": "Área do direito; Tipo de ação; Tema geral; Complemento necessário; Solução do caso.",
+        "Formatação": "Preferencialmente em efeito versalete (small caps) ou CAPS LOCK. Máximo de quatro linhas.",
+        "Exemplo": "Direito administrativo e previdenciário. Embargos de declaração em agravo interno em recurso extraordinário. Recurso protelatório. Embargos rejeitados."
+      },
+      "I. Caso em exame": {
+        "Conteúdo": "Descrição sumária do caso, incluindo fatos relevantes e pedido principal.",
+        "Formatação": "Título em versalete e negrito. Texto ordenado por numerais cardinais. Pode ser dividido em parágrafos com subtítulos em itálico, se necessário.",
+        "Exemplo": "Embargos de declaração opostos em face de acórdão que negou provimento a agravo interno, mantendo a decisão de inadmissão do recurso extraordinário, com fundamento nas Súmulas nº 279 e nº 280/STF."
+      },
+      "II. Questão em discussão": {
+        "Conteúdo": "Breve relato das questões controvertidas e suas fundamentações.",
+        "Formatação": "Título em versalete e negrito. Texto ordenado por numerais cardinais e numeração romana para questões múltiplas.",
+        "Exemplo": "A questão em discussão consiste em saber se há obscuridade, contradição ou omissão que justifique (i) o afastamento de multa prevista no § 4º do art. 1.021 do CPC e (ii) a redução de honorários fixados por ocasião do julgamento do agravo interno."
+      },
+      "III. Razões de decidir": {
+        "Conteúdo": "Resumo dos principais fundamentos da decisão, um fundamento por item.",
+        "Formatação": "Título em versalete e negrito. Texto ordenado por numerais cardinais.",
+        "Exemplo": "Os embargos não apontam qualquer erro, obscuridade, contradição ou omissão no acórdão embargado, o que afasta a presença dos pressupostos de embargabilidade do art. 1.022 do CPC."
+      },
+      "IV. Dispositivo e tese": {
+        "Conteúdo": "Conclusão da decisão e, se aplicável, tese de julgamento.",
+        "Formatação": "Título em versalete e negrito. Tese, se houver, precedida de subtítulo em itálico. Ordenação por numerais cardinais.",
+        "Exemplo": "Embargos de declaração rejeitados."
+      },
+      "Legislação e jurisprudência relevantes citadas": {
+        "Conteúdo": "Citação de dispositivos legais e jurisprudência relevante para a decisão.",
+        "Formatação": "Títulos em itálico. Utilizar ponto e vírgula para separação de diplomas normativos e vírgula para dispositivos. Usar abreviaturas padronizadas.",
+        "Exemplo": {
+          "Dispositivos relevantes citados": "CPC, arts. 1.021, § 4º, e 1.022.",
+          "Jurisprudência relevante citada": "STF, AgR no ARE 822.641, Rel. Min. Edson Fachin, 1ª Turma, j. 23.10.2015."
+        }
+      }
+    },
+    "Orientações Gerais": {
+      "Frases": "Frases curtas e claras, sem uso exagerado de vírgulas e apóstrofos.",
+      "Ordem": "Ordem direta das orações.",
+      "Citações": "Sem citações doutrinárias, adjetivos, advérbios ou sinônimos.",
+      "Abreviações": "Seguir as abreviações e denominações padronizadas.",
+      "Objetivo": "Gerar uma ementa que siga rigorosamente o padrão descrito, com clareza e precisão, e que facilite a busca e análise por meio de inteligência artificial.",
+      "Consultas": "Consulte sempre os arquivos disponibilizados no 'arquivo da loja de vetores'."
+    }
+  }
+}
