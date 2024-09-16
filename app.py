@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 # Substitua pela sua chave da API OpenAI
-api_key = "sk-yW-07SUaqtYlKqUWgB-dDHsVkP4LoW3cWXf_7tgOIPT3BlbkFJs5uaUekDmJm9k4RRdza8civhDCG335E7dzZgbQCP0A"
+api_key = "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"
 
 # Endpoint da API da OpenAI
 url = 'https://api.openai.com/v1/chat/completions'
