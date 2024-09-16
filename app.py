@@ -1,11 +1,14 @@
 from flask import Flask, request, render_template
 import requests
 import json
+from dotenv import load_dotenv
+import os
 
 app = Flask(__name__)
+load_dotenv()
 
 # Substitua pela sua chave da API OpenAI
-api_key ="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"
+api_key = os.getenv("OPENAI_API_KEY")
 
 # Endpoint da API da OpenAI
 url = 'https://api.openai.com/v1/chat/completions'
